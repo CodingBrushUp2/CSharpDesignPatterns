@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkMTHpGujDmpiZN1o2cDv35bUFbIy8FfbS9cKw6n8/kwRJar4UNn4UutMl0rOJwqHEwfOTqq6m/+H4uE5YLySQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KOTHMAN-iMMAP\\OneDrive\\Desktop\\DesignPatternDemo\\ChainOfResponsibility1Demo\\ChainOfResponsibility1Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

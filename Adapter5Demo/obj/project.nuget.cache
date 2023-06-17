@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCdEC/a1JKjDEXfF2n1lBHmmtrY8aiQ22Ixrs4vH4Hlef3KEC8GiAPlCGypxpCBYMvdg6ShXqDUM7dPU6ZtGCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KOTHMAN-iMMAP\\OneDrive\\Desktop\\DesignPatternDemo\\Adapter5Demo\\Adapter5Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

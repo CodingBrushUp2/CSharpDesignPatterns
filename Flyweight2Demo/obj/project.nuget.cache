@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qCmnvifHD42LFH4yKAc7hTUYgiwQubXUEyLRYHC+1Vf5LliRy7kCtorzXrD/SAh0m+5cLRhKe+cWp7wmTev9jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KOTHMAN-iMMAP\\OneDrive\\Desktop\\DesignPatternDemo\\Flyweight2Demo\\Flyweight2Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\KOTHMAN-iMMAP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
